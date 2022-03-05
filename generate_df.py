@@ -1,4 +1,3 @@
-# Code by Emi Aoki
 # this py file contains functions to generate data frame(s) 
 #   for age groups, race/ethnicity groups, and occupations groups
 
