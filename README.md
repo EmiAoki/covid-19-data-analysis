@@ -16,4 +16,4 @@ Contains Python code for accessing the data from various websites and storing th
 
 ------
 
-They are used for my MS thesis.
+They are used for my MS thesis which focuses on analysis of city-level Covid-19 cases using demographic and geographic data.
