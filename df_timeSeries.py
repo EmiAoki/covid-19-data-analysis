@@ -1,5 +1,3 @@
-# Code by Emi Aoki
-
 import numpy as np
 import pandas as pd
 
