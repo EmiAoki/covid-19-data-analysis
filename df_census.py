@@ -1,5 +1,3 @@
-# Code by Emi Aoki
-
 import pandas as pd
 import requests
 
